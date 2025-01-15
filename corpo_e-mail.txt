@@ -1,1 +1,12 @@
-Olá,Este é um e-mail de teste gerado automaticamente pelo sistema de automação de envio de e-mails.Caso tenha recebido este e-mail corretamente, o sistema está funcionando como esperado!
+Olá,
+
+Este é um e-mail de teste gerado automaticamente pelo sistema de automação de envio de e-mails.
+
+Abaixo estão alguns detalhes para verificação:
+- Este e-mail suporta múltiplas linhas.
+- Ele foi configurado para incluir arquivos anexos.
+
+Caso tenha recebido este e-mail corretamente, o sistema está funcionando como esperado!
+
+Atenciosamente,
+Equipe de Automação
